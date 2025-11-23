@@ -1,0 +1,29 @@
+body {
+            background-image: url('black.jpg');
+            background-size: cover;
+            margin: 10px;
+            font-size:30px;
+            font-family: timesnewroman;
+            color:aliceblue;
+            
+        }
+td {font-style:italic;
+    color:snow;
+    text-align:center;
+        }
+        h1 {
+            font-style: italic;
+            font-size: 50px;
+            background-color: aliceblue;
+            color:darkslategray;
+            text-align: center;
+            margin: 30px auto;
+            padding: 10px;
+            border-radius: 10px;
+            width: fit-content;
+        }
+        p { 
+            font-style: arial;
+            text-align: center;
+            
+        }

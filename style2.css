@@ -1,0 +1,69 @@
+
+       body {
+    background-image: url('wallpaper3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Times New Roman", serif;
+    font-size: 30px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: black;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 50px;
+    background-color: snow;
+    color: black;
+    text-align: center;
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+p {
+    text-align: center;
+    margin: 10px 0;
+}
+
+td {
+    font-style: italic;
+    color: black;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+    height: auto;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    background-color: seashell;
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: lavenderBlush;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
